@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()],
   // GitHub Pagesでデプロイする場合は、base を設定してください
   // 例: base: '/color-app-sample/',
-  base: './',
+  base: '/lvd-color-demo/',
 })
